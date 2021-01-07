@@ -1,6 +1,6 @@
 .box {
     background-color: royalblue;
-    background-image: linear-gradient(to bottom right, violet, lavender);
+    background-image: linear-gradient(to bottom right, #67B26F, #4ca2cd);
     position: absolute;
     top: 0;
     bottom: 0;
